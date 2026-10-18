@@ -1,22 +1,21 @@
-# Credit Card Fraud Detection using AI
+# Credit Card Fraud Detection - Codtech Internship
 
-## Codtech Internship - Task 1
+**Intern Name:** Kuna Siri
+**Intern ID:** CITS9815
+**Domain:** Artificial Intelligence
+**Task:** Task 1 - Credit Card Fraud Detection
 
-### Project Description
-This project detects fraudulent credit card transactions using Machine Learning. It uses Random Forest & Logistic Regression to identify fraud with high accuracy.
+## Project Description
+This project detects fraudulent credit card transactions using Machine Learning (Random Forest Algorithm).
 
-### Dataset
-Kaggle - Credit Card Fraud Detection Dataset (284,807 transactions)
+## Repository Link
+https://github.com/sirikuna742-cmd/Credit-card-fraud-detection-
 
-### Technologies Used
+## Tech Stack
 - Python
-- Pandas, NumPy
 - Scikit-learn
-- Matplotlib
+- Pandas, Numpy
 
-### How to Run
-1. pip install -r requirements.txt
-2. python fraud_detection.py
-
-### Author
-Kuna Siri - Codtech Intern
+## How to Run
+pip install -r Requirements.txt
+python Fraud _detection.py
